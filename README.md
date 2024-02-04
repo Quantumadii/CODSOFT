@@ -2,7 +2,7 @@
 Hello Everyone!!!
 This my first task based Python Internship with CodSoft And I am thrilled to start my journey with codsoft.
 
-The following are the tasks that i have chose to complete my internship
+The following are the tasks that I have chose to complete my internship
 
 Task 1:
 A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. 
