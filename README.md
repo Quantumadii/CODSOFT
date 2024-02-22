@@ -12,6 +12,12 @@ Task 2:
 Design a simple calculator with basic arithmetic operations.Prompt the user to input two numbers and an operation choice.
 perform the calculation and display the result.
 
+Task 3:
+A password generator is a useful tool that generates strong and
+random passwords for users. This project aims to create a
+password generator application using Python, allowing users to
+specify the length and complexity of the password.
+
 
 
 I am confident that the combinations of hands-on experience,expert guidance,and a supportive environment will equip me with skills and knowledge needed to excel in python
