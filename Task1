@@ -34,7 +34,7 @@ def clear_all_tasks():
     tasks.clear() 
     update_listbox() 
  
-lbl_title = Label(root, text="To-Do List", bg="red", font=("Open Sans", 20)) 
+lbl_title = Label(root, text="To-Do List", bg="#99FF99", font=("Open Sans", 20)) 
 lbl_title.grid(row=0, column=0, columnspan=3, pady=10, sticky='n') 
  
 lbl_display = Label(root, text="", bg="lightblue", font=("Open Sans", 12)) 
@@ -60,3 +60,4 @@ lb_tasks.grid(row=2, column=0, rowspan=1, columnspan=3, pady=10, sticky='we')
  
 root.geometry("600x500") 
 root.mainloop()
+
